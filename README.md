@@ -1,5 +1,3 @@
-# ts_somnio_challenge
-
 # Somnio Software Challenge
 
 This is a demo project for the Somnio Software challenge. The application is built with Next.js, TypeScript, Redux, Tailwind CSS, Material-UI, and other modern libraries. The main goal is to display a list of users in a table with advanced functionalities such as filtering, pagination, and row deletion.
@@ -45,3 +43,6 @@ To start the project in development mode, run:
 ```bash
 yarn dev
 ```
+
+### Webapp in Production
+https://somnio-challenge.vercel.app/
